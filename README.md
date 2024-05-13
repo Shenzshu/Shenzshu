@@ -1,8 +1,7 @@
 # Hi there, I'm Shenz 👋
 </div>
 <div align="center">
-   <img width="20%" src="https://komarev.com/ghpvc/?username=Shenzshu&color=8D76F5">
-   <img width="20*%" src="https://img.shields.io/github/followers/shenzshu?label=follow&style=social">
+   <img width="25%" src="https://komarev.com/ghpvc/?username=Shenzshu&color=8D76F5">
 </div>
 <div align="center">
     <a href="https://instagram.com/shenzshu" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
