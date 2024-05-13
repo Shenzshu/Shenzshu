@@ -2,7 +2,9 @@
 ![profile count](https://komarev.com/ghpvc/?username=Shenzshu&color=8b72ff)&nbsp;
 [![GitHub Shenz](https://img.shields.io/github/followers/Shenzshu?label=follow&style=social)](https://github.com/Shenzshu)&nbsp;
 </div>
-
+<div align="center">
+   <img width="25%" src="https://komarev.com/ghpvc/?username=Shenzshu&color=00008B">
+</div>
 <div align="center">
     <a href="https://instagram.com/shenzshu" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://open.spotify.com/user/31dqnj57ytv67tsfk4abrm7m3bzy" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
