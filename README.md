@@ -60,25 +60,6 @@
 </div>
 
 
-<br>
-
-
-<h2 align="center">📊 Statistics</h2>
-
-
-<div align="center">
-
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Shenzshu&show_icons=true&hide_border=true&bg_color=090000&title_color=ff3333&text_color=ffffff&icon_color=ff3333&include_all_commits=true&count_private=true"/>
-
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenzshu&layout=compact&hide_border=true&bg_color=090000&title_color=ff3333&text_color=ffffff&langs_count=8"/>
-
-
-</div>
-
 
 
 
