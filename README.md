@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="https://discord.com/users/742612162752544892">
-<img src="https://img.shields.io/badge/DISCORD-Shenz-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/DISCORD-xnlywin-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 <a href="https://github.com/Shenzshu">
