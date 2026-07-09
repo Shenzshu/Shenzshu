@@ -1,51 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff99&height=220&section=header&text=Berke%20%7C%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Discord%20Bot%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,50:0d1117,100:00ff99&height=220&section=header&text=Berke%20%7C%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Discord%20Bot%20Developer%20%7C%20Backend%20Engineer&descAlignY=60&descSize=18"/>
 
 </div>
+
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=600&lines=Hi,+I'm+Berke+👋;Developer+%7C+Discord+Bot+Developer;Building+Backend+Systems;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=650&lines=Initializing+Berke.exe...;Developer+Profile+Loaded;Discord+Bot+Developer;Backend+Systems+Builder;Welcome+to+my+GitHub"/>
 
 </div>
 
-<br>
-
-<p align="center">
-  <a href="https://discord.com/users/742612162752544892">
-    <img 
-      src="https://lanyard.cnrad.dev/api/742612162752544892?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=12"
-      alt="Discord Presence"
-    />
-  </a>
-</p>
 
 <br>
+
+<div align="center">
+
+<a href="https://discord.com/users/742612162752544892">
+<img src="https://lanyard.cnrad.dev/api/742612162752544892?theme=dark&bg=010409&animated=true&hideDiscrim=true&borderRadius=15"/>
+</a>
+
+</div>
+
+
+<br>
+
 
 <div align="center">
 
 <a href="https://github.com/Shenzshu">
-<img src="https://img.shields.io/badge/GitHub-Shenzshu-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Shenzshu-010409?style=for-the-badge&logo=github&logoColor=00ff99"/>
 </a>
 
 <a href="https://discord.com/users/742612162752544892">
-<img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/DISCORD-CONTACT-010409?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Shenzshu&style=for-the-badge&color=00ff99&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Shenzshu&style=for-the-badge&color=010409&label=PROFILE%20VIEWS"/>
 
 </div>
 
+
 <br>
+
 
 <p align="center">
-•────────────────────────────── ✦ ──────────────────────────────•
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
 
 <br>
 
-<h2 align="center">⚡ Technologies & Tools</h2>
+
+<h2 align="center">⚡ Tech Stack</h2>
+
 
 <div align="center">
 
@@ -53,32 +61,39 @@
 
 </div>
 
+
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+
+<h2 align="center">📊 Statistics</h2>
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shenzshu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shenzshu&show_icons=true&theme=github_dark&hide_border=true&bg_color=010409&title_color=00ff99&icon_color=00ff99&text_color=ffffff"/>
 
-<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shenzshu&theme=github-dark-blue&hide_border=true&background=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenzshu&layout=compact&theme=github_dark&hide_border=true&bg_color=010409&title_color=00ff99&text_color=ffffff"/>
 
 </div>
 
+
 <br>
 
-<h2 align="center">👨‍💻 About Me</h2>
 
-<table align="center">
+<h2 align="center">👨‍💻 Profile</h2>
+
+
+<div align="center">
+
+<table>
 <tr>
 
-<td width="50%">
-
-### 🧑 Profile
+<td bgcolor="#010409">
 
 ```yaml
+╭──────── PROFILE ────────╮
+
 Name:
   Berke
 
@@ -86,5 +101,7 @@ Age:
   19
 
 Role:
-  - Developer
-  - Discord Bot Developer
+  Developer
+  Discord Bot Developer
+
+╰─────────────────────────╯
