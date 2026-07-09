@@ -34,7 +34,11 @@
 </div>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+Berke.exe...;Loading+Developer+Profile...;Discord+Bot+Developer;Backend+Engineer;Welcome+to+my+GitHub"/>
+<img src="https://skillicons.dev/icons?i=js,java,py,nodejs,html,css,git,github,vscode&theme=dark&perline=9"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shenzshu&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </div>
 <br>
