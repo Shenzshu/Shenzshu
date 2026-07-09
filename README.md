@@ -23,8 +23,8 @@
 </a>
 
 </div>
-
-
+![profile count](https://komarev.com/ghpvc/?username=Shenzshu&color=ff0000)&nbsp;
+[![GitHub Shenz](https://img.shields.io/github/followers/Shenzshu?label=follow&style=social)](https://github.com/Shenzshu)&nbsp;
 <br>
 
 
