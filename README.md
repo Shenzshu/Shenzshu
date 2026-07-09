@@ -54,10 +54,9 @@
 
 
 <p align="center">
-
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
+
 
 
 <br>
@@ -96,31 +95,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenzshu&lay
 <br>
 
 
-<h2 align="center">👨‍💻 Profile</h2>
 
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td>
-
-```yaml
-╭──────── PROFILE ────────╮
-
-Name:
-  Berke
-
-Age:
-  19
-
-Role:
-  - Developer
-  - Discord Bot Developer
-
-Status:
-  Online 🔴
-
-╰─────────────────────────╯
