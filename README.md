@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://discord.com/users/911655061594202192">
+  <a href="https://discord.com/users/742612162752544892">
     <img 
-      src="https://lanyard.cnrad.dev/api/911655061594202192?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=12"
+      src="https://lanyard.cnrad.dev/api/742612162752544892?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=12"
       alt="Discord Presence"
     />
   </a>
