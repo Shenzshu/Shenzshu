@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="25%" src="https://komarev.com/ghpvc/?username=Shenzshu&color=8D76F5">
+<img width="25%" src="https://komarev.com/ghpvc/?username=Shenzshu&color=8D76F5&style=flat">
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://lanyard.kyrie25.me/api/123456789012345678?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&idleMessage=Nothingness" width="45%">
+<img src="https://lanyard.kyrie25.me/api/742612162752544892?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&idleMessage=Nothingness" width="45%">
 
 </div>
 
@@ -39,11 +39,26 @@
 ```yaml
 Name: Berke
 Age: 19
+
+Role:
+  - Developer
+  - Discord Bot Developer
+
 Focus:
-  - FiveM Development
   - Discord Bot Development
   - Backend Systems
   - Web Development
+
+Languages:
+  - JavaScript
+  - Java
+  - Python
+  - HTML
+  - CSS
+
+Tools:
+  - Visual Studio Code
+  - GitHub
 
 Currently Learning:
   - Advanced JavaScript
