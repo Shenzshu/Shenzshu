@@ -2,11 +2,14 @@
   Hi there, I'm Shenz 👋
 </h1>
 
-<div align="center">
-
-<img width="25%" src="https://komarev.com/ghpvc/?username=Shenzshu&color=8D76F5&style=flat">
-
-</div>
+<p align="center">
+  <a href="https://discord.com/users/911655061594202192">
+    <img 
+      src="https://lanyard.cnrad.dev/api/911655061594202192?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=12"
+      alt="Discord Presence"
+    />
+  </a>
+</p>
 
 
 <div align="center">
