@@ -15,12 +15,7 @@
 <img src="https://img.shields.io/badge/GITHUB-Shenzshu-black.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</div>
-<div align="center">
-![profile count](https://komarev.com/ghpvc/?username=Shenzshu&color=ff0000)&nbsp;
-[![GitHub Shenz](https://img.shields.io/github/followers/Shenzshu?label=follow&style=social)](https://github.com/Shenzshu)&nbsp;
-  </a>
-<br>
+
 
 
 <p align="center">•────────────────────────────── ✦ ──────────────────────────────•</p>
