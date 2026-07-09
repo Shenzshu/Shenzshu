@@ -40,10 +40,10 @@
 <td>
 
 🧑‍💻 **Name**  
-Berke
+- Berke
 
 🎂 **Age**  
-19
+- 19
 
 </td>
 
