@@ -19,7 +19,7 @@
 
 <a href="https://discord.com/users/742612162752544892">
 
-<img src="https://lanyard.cnrad.dev/api/742612162752544892?theme=dark&bg=090000&animated=true&hideDiscrim=true&borderRadius=15"/>
+<img src="https://lanyard.cnrad.dev/api/742612162752544892?theme=dark&bg=00000000&animated=true&hideDiscrim=true&borderRadius=15"/>
 
 </a>
 
