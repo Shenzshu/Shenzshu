@@ -27,31 +27,50 @@
 
 <p align="center">•────────────────────────────── ✦ ──────────────────────────────•</p>
 
-```yaml
-Name: Berke
-Age: 19
+<div align="center">
 
-Role:
-  - Developer
-  - Discord Bot Developer
+<img src="https://skillicons.dev/icons?i=js,java,py,html,css,vscode,github" />
 
-Focus:
-  - Discord Bot Development
-  - Backend Systems
-  - Web Development
+</div>
 
-Languages:
-  - JavaScript
-  - Java
-  - Python
-  - HTML
-  - CSS
+<br>
 
-Tools:
-  - Visual Studio Code
-  - GitHub
+<table align="center">
+<tr>
+<td>
 
-Currently Learning:
-  - Advanced JavaScript
-  - Backend Architecture
-  - New Technologies
+🧑‍💻 **Name**  
+Berke
+
+🎂 **Age**  
+19
+
+</td>
+
+<td>
+
+🚀 **Role**
+- Developer
+- Discord Bot Developer
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+⚙️ **Focus**
+- Backend Systems
+- Web Development
+
+</td>
+
+<td>
+
+📚 **Learning**
+- Advanced JavaScript
+- Backend Architecture
+
+</td>
+</tr>
+</table>
