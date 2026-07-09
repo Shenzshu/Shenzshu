@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://lanyard.kyrie25.me/api/742612162752544892?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&idleMessage=Nothingness" width="45%">
+<img width="25%" src="https://komarev.com/ghpvc/?username=Shenzshu&color=8D76F5">
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://lanyard.kyrie25.me/api/742612162752544892?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Nothingness" width="45%">
+<img src="https://lanyard.kyrie25.me/api/123456789012345678?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&idleMessage=Nothingness" width="45%">
 
 </div>
 
