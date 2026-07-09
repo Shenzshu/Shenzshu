@@ -50,18 +50,6 @@
 </div>
 
 
-<br>
-
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-
-
-<br>
-
-
 <h2 align="center">🩸 Tech Stack</h2>
 
 
@@ -92,7 +80,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenzshu&lay
 </div>
 
 
-<br>
+
 
 
 
