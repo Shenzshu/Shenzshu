@@ -28,13 +28,6 @@
 <br>
 
 
-<div align="center">
-
-<img src="[https://lanyard.kyrie25.me/api/742612162752544892?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&idleMessage=Nothingness](https://lanyard-visualizer.netlify.app/user/742612162752544892)" width="45%">
-
-</div>
-
-
 ---
 
 ## 👨‍💻 About Me
