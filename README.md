@@ -11,9 +11,17 @@
   </a>
 </p>
 </a>
-<a href="https://github.com/Shenzshu">
-<img src="https://img.shields.io/badge/GITHUB-Shenzshu-black.svg?&style=for-the-badge&logo=github&logoColor=white">
-</a>
+<p align="center">
+  <a href="https://github.com/Shenzshu">
+    <img src="https://img.shields.io/badge/GitHub-Shenzshu-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://discord.com/users/742612162752544892">
+    <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=flat-square&logo=discord&logoColor=white">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Shenzshu&style=flat-square&color=blue" alt="Profile Views">
+</p>
 
 </div>
 
